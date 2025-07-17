@@ -42,16 +42,16 @@ and schedule posts across multiple platforms like Twitter, Facebook, and Instagr
 
 **🛠️ Technologies Used**
 
-React JS <img width="46" height="48" alt="image" src="https://github.com/user-attachments/assets/f02ee4f9-e809-430d-b939-31924025e691" />
+React JS 
 
 
-Tailwind CSS <img width="77" height="46" alt="image" src="https://github.com/user-attachments/assets/9ba876cc-307c-4bd6-9fdd-344eb6736445" />
+Tailwind CSS 
 
 
-JavaScript (ES6) <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/09a29b0d-1507-4cb9-aa73-adf4563c7d76" />
+JavaScript (ES6) 
 
 
-HTML (via JSX) <img width="46" height="46" alt="image" src="https://github.com/user-attachments/assets/682b51f1-fee1-452a-91dd-e5b71101f587" />
+HTML (via JSX) 
 
 
 <br> <br>
