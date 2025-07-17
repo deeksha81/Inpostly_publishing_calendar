@@ -3,7 +3,7 @@
 
 <img width="1920" height="1080" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/43d0c859-64e8-4449-96da-0d89399401c4" />
 
-
+<br> <br> <br>
 
 
 
@@ -12,7 +12,7 @@
 Inpostly is a user-friendly, visually appealing social media scheduling dashboard built using React and Tailwind CSS. It enables users to view, manage, 
 and schedule posts across multiple platforms like Twitter, Facebook, and Instagram. The UI replicates the functionality of professional social media tools with custom styling.
 
-
+<br> <br>
 
 **Features**
 
@@ -36,6 +36,7 @@ and schedule posts across multiple platforms like Twitter, Facebook, and Instagr
 
 - completely responsive 
 
+<br> <br>
 
 
 
@@ -49,7 +50,7 @@ JavaScript (ES6)
 
 HTML (via JSX)
 
-
+<br> <br>
 
 
 **📚 Folder Structure (Basic)**
@@ -68,7 +69,7 @@ inpostly-app/
 └── README.md
 
 
-
+<br> <br>
 
 
 **💡 What I Learned**
@@ -82,6 +83,8 @@ inpostly-app/
 - Learned how to debug layout alignment issues and maintain consistent design
 
 - Improved my ability to build user-centric and aesthetic dashboards
+
+<br> <br>
 
 
 
@@ -98,11 +101,12 @@ inpostly-app/
 
 - Handling JSX syntax errors (like misplaced return statements or improper JSX nesting)
 
+<br> <br>
 
 
 
 **🚀 How to Run the Project**
-
+<br> 
 **Clone the repository:**
 
 bash
@@ -111,7 +115,7 @@ Edit
 git clone https://github.com/yourusername/inpostly.git
 
 
-
+<br> <br>
 
 **Install dependencies:**
 
@@ -128,6 +132,7 @@ Edit
 npm start
 
 
+<br> <br> 
 
 
 
@@ -143,7 +148,7 @@ npm start
 
  
  
- 
+ <br> <br> < br>
  
  
  
