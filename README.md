@@ -1,7 +1,8 @@
 
 
 
-<img width="1920" height="1080" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/2d2aed4a-6be1-493c-af03-be5d54a9fb50" />
+<img width="1920" height="1080" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/43d0c859-64e8-4449-96da-0d89399401c4" />
+
 **🟢 Inpostly – Social Media Post Scheduler**
 
 Inpostly is a user-friendly, visually appealing social media scheduling dashboard built using React and Tailwind CSS. It enables users to view, manage, 
