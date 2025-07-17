@@ -1,4 +1,7 @@
-![WhatsApp Image 2025-07-18 at 12 11 51 AM](https://github.com/user-attachments/assets/31d0319f-48a7-4264-8ace-510162f6cc8a)
+
+
+
+<img width="1920" height="1080" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/2d2aed4a-6be1-493c-af03-be5d54a9fb50" />
 **🟢 Inpostly – Social Media Post Scheduler**
 
 Inpostly is a user-friendly, visually appealing social media scheduling dashboard built using React and Tailwind CSS. It enables users to view, manage, 
@@ -107,12 +110,6 @@ bash
 Copy
 Edit
 npm start
-
-📸 Screenshots
-(Add screenshots of your app UI here if you like)
-
-
-
 
 
 **📈 Future Scope**
