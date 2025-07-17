@@ -13,6 +13,7 @@ Inpostly is a user-friendly, visually appealing social media scheduling dashboar
 and schedule posts across multiple platforms like Twitter, Facebook, and Instagram. The UI replicates the functionality of professional social media tools with custom styling.
 
 
+
 **Features**
 
 ✅ Sidebar navigation with sections: Home, Inbox, Calendar, Publish, Ads, Analytics
@@ -49,6 +50,8 @@ JavaScript (ES6)
 HTML (via JSX)
 
 
+
+
 **📚 Folder Structure (Basic)**
 
 pgsql
@@ -66,6 +69,8 @@ inpostly-app/
 
 
 
+
+
 **💡 What I Learned**
 
 - Deepened my understanding of React component structuring
@@ -77,6 +82,7 @@ inpostly-app/
 - Learned how to debug layout alignment issues and maintain consistent design
 
 - Improved my ability to build user-centric and aesthetic dashboards
+
 
 
 
@@ -92,6 +98,9 @@ inpostly-app/
 
 - Handling JSX syntax errors (like misplaced return statements or improper JSX nesting)
 
+
+
+
 **🚀 How to Run the Project**
 
 **Clone the repository:**
@@ -100,6 +109,8 @@ bash
 Copy
 Edit
 git clone https://github.com/yourusername/inpostly.git
+
+
 
 
 **Install dependencies:**
@@ -117,6 +128,9 @@ Edit
 npm start
 
 
+
+
+
 **📈 Future Scope**
 
 -Integration with real social media APIs (Twitter/Facebook/Instagram)
@@ -130,7 +144,10 @@ npm start
  
  
  
- Author
+ 
+ 
+ 
+Author
 Made with ❤️ by Deeksha Bajpai
 
 
